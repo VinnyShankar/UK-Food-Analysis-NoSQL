@@ -10,7 +10,7 @@ Analyzing the best rated restaurants in London
     - Instructor: Ahmad Sweed
     - Tutor: [Bethany Lindberg](https://github.com/bethanylindberg)
 ### - Contents
-- One `UK-Food_Analysis` folder containing:
+- One `UK-Food-Analysis` folder containing:
     * A `Resources` folder that contains a .json file
     * A `setup` Jupyter Notebook that uses the .json file to create a new MongoDB NoSQL database called "uk_food" with a new collection called "establishments", transforms the data in the collection, and prepares the collection for analysis
     * An `analysis` Jupyter Notebook that analyzes the data in the newly inserted collection
